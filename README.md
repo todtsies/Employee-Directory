@@ -21,7 +21,7 @@
 
   ## Demo
 
-  ![Application Preview](public/assets/Note-Taker1.gif)
+  ![Application Preview](public/assets/EmployeeDirectory.gif)
   
 
   ## Installation
@@ -39,9 +39,9 @@
   Once all third-party packages have been successfully installed, the application is ready to use. For more details, reference the application's ```package.json``` file.
 
   ## Usage
-  To launch the application, please visit this link to Heroku - https://fast-reef-84596.herokuapp.com/
+  To launch the application, please visit this link to Heroku - https://intense-headland-54767.herokuapp.com/
   
-  Given a table of random users, when the user loads the page, a table of employees should render. The user will be able to sort and filter the table by the name of the employee.
+  When the user loads the page, a table of random employees should render. The user will be able to sort and filter the table by the name of the employee.
 
 
   ## Contributors
